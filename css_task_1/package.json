@@ -1,0 +1,11 @@
+{
+  "name": "css_task_1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}

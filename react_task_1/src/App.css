@@ -1,0 +1,20 @@
+#increment {
+	width: 600px;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid black;
+	background: red;
+}
+
+#decrement {
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	background: green;
+}
+.box {
+	width: 300px;
+	height: 300px;
+}
